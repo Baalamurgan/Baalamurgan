@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Baalamurgan K A
 - 👀 I’m interested in developing websites, exploring new technologies and building big projects.
 - 🌱 I’m currently pursuing Bachelor of Computer Science Degree at VIT-Chennai.
-- 💞️ I’m on my track learning and building websites and Java application.
+- 💞️ I’m on my track learning and building websites and Apps using React/React Native.
 - 📫 How to reach me https://www.linkedin.com/in/baalamurgan/
 
 ### 🛠 &nbsp;Tech Stack
