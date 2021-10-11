@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Baalamurgan K A
 - 👀 I’m interested in developing websites, exploring new technologies and building big projects.
 - 🌱 I’m currently pursuing Bachelor of Computer Science Degree at VIT-Chennai.
-- 💞️ I’m on my track learning and building websites and Apps using React/React Native.
+- 💞️ I’m on my track learning and building websites and Apps using Angular/React and React Native.
 - 📫 How to reach me https://www.linkedin.com/in/baalamurgan/
 
 ### 🛠 &nbsp;Tech Stack
@@ -21,6 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
 ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby&logoColor=violet)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js&logoColor=grey)&nbsp;
@@ -30,7 +31,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio&bgCOlor=white)\
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=green)
+<!-- ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=green) -->
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <!---
