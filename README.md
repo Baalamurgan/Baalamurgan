@@ -8,6 +8,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
@@ -28,9 +29,8 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css&logoColor=#2338B2AC)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=#00C7B7)\
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio&bgCOlor=white)\
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio&bgCOlor=white)
+<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp; -->
 <!-- ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=green) -->
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
