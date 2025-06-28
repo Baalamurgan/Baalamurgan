@@ -41,7 +41,7 @@
 <!-- ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\ -->
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<!-- <h4 align="center">Profile stats :musical_keyboard:</h4> -->
 
 <!---
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=baalamurgan&show_icons=true&theme=synthwave" alt="Baalamurgan :: Profile Stats" /></p>
