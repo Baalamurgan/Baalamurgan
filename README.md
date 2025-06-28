@@ -50,7 +50,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center">
-<img height="180em" src=""/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Baalamurgan&layout=compact&langs_count=6&theme=algolia"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
