@@ -12,7 +12,7 @@
 
 ```ts
 const baalamurgan = {
-  now:        "SDE III @ Nextiva",
+  now:        "SE III @ Walmart Global Tech",
   role:       "Frontend Engineer",
   focus:      ["SaaS", "SSR", "SEO", "Core Web Vitals", "Accessibility"],
   stack:      ["Next.js", "React", "TypeScript", "Node.js"],
@@ -24,7 +24,7 @@ const baalamurgan = {
 ### `// about`
 
 - 🧩 Frontend Engineer with **4+ years** building scalable SaaS and e-commerce platforms with **Next.js, React, and TypeScript**.
-- 🚀 Currently **SDE III @ Nextiva**; previously Vaimo (Helly Hansen) and Trademarkia (12M+ records, 300K+ monthly visitors).
+- 🚀 Currently **Software Engineer III @ Walmart Global Tech**; previously Nextiva, Vaimo (Helly Hansen) and Trademarkia (12M+ records, 300K+ monthly visitors).
 - ⚡ I specialize in **server-side rendering, performance, SEO, Core Web Vitals, accessibility**, and high-traffic platform migrations.
 - 🤖 I lean on **AI-assisted workflows** (Claude, Cursor, v0, BMAD) to go from idea to production faster — without dropping the quality bar.
 - 🌐 See my work and case studies → **[baalamurgan.com](https://baalamurgan.com)**
